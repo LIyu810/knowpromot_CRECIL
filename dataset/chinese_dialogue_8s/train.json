@@ -1,0 +1,3749 @@
+[
+    [
+        [
+            "Speaker 1: 我早就知道要出事，怎么样出事了吧",
+            "Speaker 2: 说说吧谁把那家子给招来的，现在坦白还来得及啊",
+            "Speaker 3: 啊怨我怨我这事是贾志新呀求了我好好几天，一劲说长得像我，我琢磨着说给找几张票没什么事谁知道……",
+            "Speaker 4: 贾圆圆也够可气的，冲着我指手划脚的，说我演的这儿不对那不对，给我讲起戏来了，那我在少年宫我学表演我白学啦？",
+            "Speaker 5: 还有那贾志国，我原先还把他当正面人物塑呢，这回见了真人才知道，整个一反面人物",
+            "Speaker 6: 我倒觉得这老头啊挺有意思的，很有性格",
+            "Speaker 7: 哎哎哎，那叫和平的那女的性格怎那么二啊，回头她什么时候再演一个特别差的小品，长的还特别像我人以为是我呢这不毁我么",
+            "Speaker 1: 人家现在反正是本主打上门儿来了，大家看怎么办吧……要不制片部门，这样怎么样，赔人点钱，五千打的住么？",
+            "Speaker 8: 五千？你看把我卖了值五千么？现在剧组啊已经超支了，今晚上这顿夜宵还是广院食堂赊的呢，要是这帐上吧周转资金还有点，要把它赔出去呀，大伙呀，这礼拜补助就免了啊！",
+            "Speaker 9: 凭什么呀……",
+            "Speaker 10: 别吵了别吵了别吵了，就现在那帐上有几个窟窿等着堵呢",
+            "Speaker 1: 可不么，要不然梁，咱把剧本改改？哄他们一高兴？",
+            "Speaker 2: 没法改，还不够费劲的呢，我宁可不要补助",
+            "Speaker 7: 你是不要补助，你都拿稿费了你",
+            "Speaker 2: 反正我改不了，你们谁有能耐谁改",
+            "Speaker 7: 嘿，你以为我们真没人了？助理文学师，梁欢！",
+            "Speaker 11: 我觉得吧，咱们写他们吧宣传他们吧，还没找他们要钱呢，他们还来劲了",
+            "Speaker 3: 哎，不过我倒有一主意，我那意思是说呀，既然他们家人觉得咱们演的不像，那干脆，让他们家人自己来演这出戏，怎么样？",
+            "Speaker 1: 让他们？业余的？外行的？演电视剧？演情景喜剧？",
+            "Speaker 2: 别说，这还真是一主意",
+            "Speaker 9: ……"
+        ],
+        [
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "贾志新",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "梁",
+                "r": [
+                    "per:colleague"
+                ],
+                "rid": [
+                    5
+                ]
+            },
+            {
+                "x": "Speaker 1",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 1",
+                "r": [
+                    "per:colleague"
+                ],
+                "rid": [
+                    5
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "贾志新",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "梁",
+                "r": [
+                    "per:alternate_name"
+                ],
+                "rid": [
+                    0
+                ]
+            },
+            {
+                "x": "Speaker 2",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "贾志新",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 3",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 4",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 5",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 6",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 7",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 8",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 9",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 10",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "和平",
+                "r": [
+                    "per:acquaintance"
+                ],
+                "rid": [
+                    3
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "Speaker 11",
+                "y": "梁欢",
+                "r": [
+                    "per:alternate_name"
+                ],
+                "rid": [
+                    0
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 1",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 2",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 3",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "贾圆圆",
+                "r": [
+                    "per:relative"
+                ],
+                "rid": [
+                    27
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "贾志国",
+                "r": [
+                    "per:siblings"
+                ],
+                "rid": [
+                    21
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "老头",
+                "r": [
+                    "per:children"
+                ],
+                "rid": [
+                    1
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "和平",
+                "r": [
+                    "per:relative"
+                ],
+                "rid": [
+                    27
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "梁",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "贾志新",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "贾志新",
+                "r": [
+                    "per:relative"
+                ],
+                "rid": [
+                    27
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "贾志国",
+                "r": [
+                    "per:children"
+                ],
+                "rid": [
+                    1
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "老头",
+                "r": [
+                    "per:grandchildren"
+                ],
+                "rid": [
+                    24
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "和平",
+                "r": [
+                    "per:children"
+                ],
+                "rid": [
+                    1
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾圆圆",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "贾志新",
+                "r": [
+                    "per:siblings"
+                ],
+                "rid": [
+                    21
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "贾圆圆",
+                "r": [
+                    "per:parents"
+                ],
+                "rid": [
+                    2
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "老头",
+                "r": [
+                    "per:children"
+                ],
+                "rid": [
+                    1
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "和平",
+                "r": [
+                    "per:spouse"
+                ],
+                "rid": [
+                    22
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "贾志国",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "贾志新",
+                "r": [
+                    "per:parents"
+                ],
+                "rid": [
+                    2
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "贾圆圆",
+                "r": [
+                    "per:grandparents"
+                ],
+                "rid": [
+                    23
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "贾志国",
+                "r": [
+                    "per:parents"
+                ],
+                "rid": [
+                    2
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "和平",
+                "r": [
+                    "per:parents-in-law"
+                ],
+                "rid": [
+                    14
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "老头",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "贾志新",
+                "r": [
+                    "per:relative"
+                ],
+                "rid": [
+                    27
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "贾圆圆",
+                "r": [
+                    "per:parents"
+                ],
+                "rid": [
+                    2
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "贾志国",
+                "r": [
+                    "per:spouse"
+                ],
+                "rid": [
+                    22
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "老头",
+                "r": [
+                    "per:children-in-law"
+                ],
+                "rid": [
+                    15
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "和平",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 1",
+                "r": [
+                    "per:colleague"
+                ],
+                "rid": [
+                    5
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 2",
+                "r": [
+                    "per:alternate_name"
+                ],
+                "rid": [
+                    0
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "Speaker 11",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "贾志新",
+                "r": [
+                    "per:friends"
+                ],
+                "rid": [
+                    11
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "和平",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁",
+                "y": "梁欢",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 1",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 2",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 3",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 4",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 5",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 6",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 7",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 8",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 9",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 10",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "Speaker 11",
+                "r": [
+                    "per:alternate_name"
+                ],
+                "rid": [
+                    0
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "贾志新",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "贾圆圆",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "贾志国",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "老头",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "和平",
+                "r": [
+                    "per:acquaintance"
+                ],
+                "rid": [
+                    3
+                ]
+            },
+            {
+                "x": "梁欢",
+                "y": "梁",
+                "r": [
+                    "unanswerable"
+                ],
+                "rid": [
+                    29
+                ]
+            }
+        ],
+        {
+            "scene_id": "ep120_sc1",
+            "utterances": [
+                {
+                    "utterance_id": "ep120_sc1_u1",
+                    "speakers": "英达",
+                    "transcript": "我早就知道要出事，怎么样出事了吧",
+                    "tokens": [
+                        "我",
+                        "早就",
+                        "知道",
+                        "要",
+                        "出事",
+                        "，",
+                        "怎么样",
+                        "出事",
+                        "了",
+                        "吧"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u2",
+                    "speakers": "梁左",
+                    "transcript": "说说吧谁把那家子给招来的，现在坦白还来得及啊",
+                    "tokens": [
+                        "说",
+                        "说",
+                        "吧",
+                        "谁",
+                        "把",
+                        "那家子",
+                        "给",
+                        "招来",
+                        "的",
+                        "，",
+                        "现在",
+                        "坦白",
+                        "还",
+                        "来得及",
+                        "啊"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u3",
+                    "speakers": "梁天",
+                    "transcript": "啊怨我怨我这事是贾志新呀求了我好好几天，一劲说长得像我，我琢磨着说给找几张票没什么事谁知道……",
+                    "tokens": [
+                        "啊",
+                        "怨",
+                        "我",
+                        "怨",
+                        "我",
+                        "这事",
+                        "是",
+                        "贾志新",
+                        "呀",
+                        "求",
+                        "了",
+                        "我",
+                        "好好",
+                        "几天",
+                        "，",
+                        "一",
+                        "劲",
+                        "说",
+                        "长",
+                        "得",
+                        "像",
+                        "我",
+                        "，",
+                        "我",
+                        "琢磨",
+                        "着",
+                        "说",
+                        "给",
+                        "找",
+                        "几张",
+                        "票",
+                        "没什么",
+                        "事",
+                        "谁",
+                        "知道",
+                        "…",
+                        "…",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "贾志新",
+                            "jzx",
+                            7
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u4",
+                    "speakers": "关凌",
+                    "transcript": "贾圆圆也够可气的，冲着我指手划脚的，说我演的这儿不对那不对，给我讲起戏来了，那我在少年宫我学表演我白学啦？",
+                    "tokens": [
+                        "贾圆圆",
+                        "也",
+                        "够",
+                        "可气",
+                        "的",
+                        "，",
+                        "冲着",
+                        "我",
+                        "指手划脚",
+                        "的",
+                        "，",
+                        "说",
+                        "我",
+                        "演",
+                        "的",
+                        "这儿",
+                        "不",
+                        "对",
+                        "那",
+                        "不",
+                        "对",
+                        "，",
+                        "给",
+                        "我",
+                        "讲",
+                        "起",
+                        "戏",
+                        "来",
+                        "了",
+                        "，",
+                        "那",
+                        "我",
+                        "在",
+                        "少年宫",
+                        "我",
+                        "学",
+                        "表演",
+                        "我",
+                        "白学",
+                        "啦",
+                        "？",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "贾圆圆",
+                            "jyy",
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u5",
+                    "speakers": "杨立新",
+                    "transcript": "还有那贾志国，我原先还把他当正面人物塑呢，这回见了真人才知道，整个一反面人物",
+                    "tokens": [
+                        "还有",
+                        "那",
+                        "贾志国",
+                        "，",
+                        "我",
+                        "原先",
+                        "还",
+                        "把",
+                        "他",
+                        "当",
+                        "正面人物",
+                        "塑",
+                        "呢",
+                        "，",
+                        "这回",
+                        "见",
+                        "了",
+                        "真",
+                        "人才",
+                        "知道",
+                        "，",
+                        "整个",
+                        "一",
+                        "反面人物",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "贾志国",
+                            "jzg",
+                            2
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u6",
+                    "speakers": "文兴宇",
+                    "transcript": "我倒觉得这老头啊挺有意思的，很有性格",
+                    "tokens": [
+                        "我",
+                        "倒",
+                        "觉得",
+                        "这",
+                        "老头",
+                        "啊",
+                        "挺",
+                        "有意思",
+                        "的",
+                        "，",
+                        "很",
+                        "有",
+                        "性格",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "老头",
+                            "fm",
+                            4
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u7",
+                    "speakers": "宋丹丹",
+                    "transcript": "哎哎哎，那叫和平的那女的性格怎那么二啊，回头她什么时候再演一个特别差的小品，长的还特别像我人以为是我呢这不毁我么",
+                    "tokens": [
+                        "哎",
+                        "哎",
+                        "哎",
+                        "，",
+                        "那",
+                        "叫",
+                        "和平",
+                        "的",
+                        "那",
+                        "女",
+                        "的",
+                        "性格",
+                        "怎",
+                        "那么",
+                        "二",
+                        "啊",
+                        "，",
+                        "回头",
+                        "她",
+                        "什么",
+                        "时候",
+                        "再演",
+                        "一个",
+                        "特别",
+                        "差",
+                        "的",
+                        "小品",
+                        "，",
+                        "长",
+                        "的",
+                        "还",
+                        "特别",
+                        "像",
+                        "我人",
+                        "以为",
+                        "是",
+                        "我",
+                        "呢",
+                        "这",
+                        "不",
+                        "毁",
+                        "我么",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "和平",
+                            "hp",
+                            6
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u8",
+                    "speakers": "英达",
+                    "transcript": "人家现在反正是本主打上门儿来了，大家看怎么办吧……要不制片部门，这样怎么样，赔人点钱，五千打的住么？",
+                    "tokens": [
+                        "人家",
+                        "现在",
+                        "反正",
+                        "是",
+                        "本",
+                        "主打",
+                        "上门",
+                        "儿",
+                        "来",
+                        "了",
+                        "，",
+                        "大家",
+                        "看",
+                        "怎么办",
+                        "吧",
+                        "…",
+                        "…",
+                        "要",
+                        "不",
+                        "制片",
+                        "部门",
+                        "，",
+                        "这样",
+                        "怎么样",
+                        "，",
+                        "赔人",
+                        "点",
+                        "钱",
+                        "，",
+                        "五千",
+                        "打",
+                        "的",
+                        "住",
+                        "么",
+                        "？"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u9",
+                    "speakers": "英壮",
+                    "transcript": "五千？你看把我卖了值五千么？现在剧组啊已经超支了，今晚上这顿夜宵还是广院食堂赊的呢，要是这帐上吧周转资金还有点，要把它赔出去呀，大伙呀，这礼拜补助就免了啊！",
+                    "tokens": [
+                        "五千",
+                        "？",
+                        "你",
+                        "看",
+                        "把",
+                        "我",
+                        "卖",
+                        "了",
+                        "值",
+                        "五千",
+                        "么",
+                        "？",
+                        "现在",
+                        "剧组",
+                        "啊",
+                        "已经",
+                        "超支",
+                        "了",
+                        "，",
+                        "今晚",
+                        "上",
+                        "这",
+                        "顿",
+                        "夜宵",
+                        "还是",
+                        "广院",
+                        "食堂",
+                        "赊",
+                        "的",
+                        "呢",
+                        "，",
+                        "要是",
+                        "这",
+                        "帐",
+                        "上",
+                        "吧",
+                        "周转资金",
+                        "还",
+                        "有点",
+                        "，",
+                        "要",
+                        "把",
+                        "它",
+                        "赔",
+                        "出去",
+                        "呀",
+                        "，",
+                        "大伙",
+                        "呀",
+                        "，",
+                        "这",
+                        "礼拜",
+                        "补助",
+                        "就",
+                        "免",
+                        "了",
+                        "啊",
+                        "！"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u10",
+                    "speakers": "众人",
+                    "transcript": "凭什么呀……",
+                    "tokens": [
+                        "凭",
+                        "什么",
+                        "呀",
+                        "…",
+                        "…"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u11",
+                    "speakers": "工作人员",
+                    "transcript": "别吵了别吵了别吵了，就现在那帐上有几个窟窿等着堵呢",
+                    "tokens": [
+                        "别吵",
+                        "了",
+                        "别吵",
+                        "了",
+                        "别吵",
+                        "了",
+                        "，",
+                        "就",
+                        "现在",
+                        "那",
+                        "帐",
+                        "上",
+                        "有",
+                        "几个",
+                        "窟窿",
+                        "等",
+                        "着",
+                        "堵",
+                        "呢"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u12",
+                    "speakers": "英达",
+                    "transcript": "可不么，要不然梁，咱把剧本改改？哄他们一高兴？",
+                    "tokens": [
+                        "可不",
+                        "么",
+                        "，",
+                        "要不然",
+                        "梁",
+                        "，",
+                        "咱",
+                        "把",
+                        "剧本",
+                        "改改",
+                        "？",
+                        "哄",
+                        "他们",
+                        "一",
+                        "高兴",
+                        "？",
+                        ""
+                    ],
+                    "character_entities": [
+                        [
+                            "梁",
+                            "梁左",
+                            4
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u13",
+                    "speakers": "梁左",
+                    "transcript": "没法改，还不够费劲的呢，我宁可不要补助",
+                    "tokens": [
+                        "没法",
+                        "改",
+                        "，",
+                        "还",
+                        "不够",
+                        "费劲",
+                        "的",
+                        "呢",
+                        "，",
+                        "我",
+                        "宁可",
+                        "不要",
+                        "补助"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u14",
+                    "speakers": "宋丹丹",
+                    "transcript": "你是不要补助，你都拿稿费了你",
+                    "tokens": [
+                        "你",
+                        "是",
+                        "不要",
+                        "补助",
+                        "，",
+                        "你",
+                        "都",
+                        "拿",
+                        "稿费",
+                        "了",
+                        "你"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u15",
+                    "speakers": "梁左",
+                    "transcript": "反正我改不了，你们谁有能耐谁改",
+                    "tokens": [
+                        "反正",
+                        "我",
+                        "改不了",
+                        "，",
+                        "你们",
+                        "谁",
+                        "有",
+                        "能耐",
+                        "谁",
+                        "改"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u16",
+                    "speakers": "宋丹丹",
+                    "transcript": "嘿，你以为我们真没人了？助理文学师，梁欢！",
+                    "tokens": [
+                        "嘿",
+                        "，",
+                        "你",
+                        "以为",
+                        "我们",
+                        "真",
+                        "没人",
+                        "了",
+                        "？",
+                        "助理",
+                        "文学",
+                        "师",
+                        "，",
+                        "梁欢",
+                        "！"
+                    ],
+                    "character_entities": [
+                        [
+                            "梁欢",
+                            "梁欢",
+                            13
+                        ]
+                    ]
+                },
+                {
+                    "utterance_id": "ep120_sc1_u17",
+                    "speakers": "梁欢",
+                    "transcript": "我觉得吧，咱们写他们吧宣传他们吧，还没找他们要钱呢，他们还来劲了",
+                    "tokens": [
+                        "我",
+                        "觉得",
+                        "吧",
+                        "，",
+                        "咱们",
+                        "写",
+                        "他们",
+                        "吧",
+                        "宣传",
+                        "他们",
+                        "吧",
+                        "，",
+                        "还",
+                        "没找",
+                        "他们",
+                        "要钱",
+                        "呢",
+                        "，",
+                        "他们",
+                        "还",
+                        "来劲",
+                        "了"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u18",
+                    "speakers": "梁天",
+                    "transcript": "哎，不过我倒有一主意，我那意思是说呀，既然他们家人觉得咱们演的不像，那干脆，让他们家人自己来演这出戏，怎么样？",
+                    "tokens": [
+                        "哎",
+                        "，",
+                        "不过",
+                        "我",
+                        "倒",
+                        "有",
+                        "一",
+                        "主意",
+                        "，",
+                        "我",
+                        "那",
+                        "意思",
+                        "是",
+                        "说",
+                        "呀",
+                        "，",
+                        "既然",
+                        "他们",
+                        "家人",
+                        "觉得",
+                        "咱们",
+                        "演",
+                        "的",
+                        "不",
+                        "像",
+                        "，",
+                        "那",
+                        "干脆",
+                        "，",
+                        "让",
+                        "他们",
+                        "家人",
+                        "自己",
+                        "来演",
+                        "这",
+                        "出戏",
+                        "，",
+                        "怎么样",
+                        "？"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u19",
+                    "speakers": "英达",
+                    "transcript": "让他们？业余的？外行的？演电视剧？演情景喜剧？",
+                    "tokens": [
+                        "让",
+                        "他们",
+                        "？",
+                        "业余",
+                        "的",
+                        "？",
+                        "外行",
+                        "的",
+                        "？",
+                        "演",
+                        "电视剧",
+                        "？",
+                        "演",
+                        "情景喜剧",
+                        "？"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u20",
+                    "speakers": "梁左",
+                    "transcript": "别说，这还真是一主意",
+                    "tokens": [
+                        "别说",
+                        "，",
+                        "这",
+                        "还",
+                        "真是",
+                        "一",
+                        "主意"
+                    ],
+                    "character_entities": []
+                },
+                {
+                    "utterance_id": "ep120_sc1_u21",
+                    "speakers": "众人",
+                    "transcript": "……",
+                    "tokens": [
+                        "…",
+                        "…"
+                    ],
+                    "character_entities": []
+                }
+            ]
+        }
+    ]
+]
